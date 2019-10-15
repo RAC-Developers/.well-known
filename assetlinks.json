@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.tazeen.cv.base",
+    "sha256_cert_fingerprints":
+    ["20:F6:3C:03:CA:4E:F4:E1:F5:9B:C8:0C:A3:A9:E0:47:0C:D0:A0:1C:DB:CF:E9:72:29:D2:7B:90:AB:B7:A3:B5"]
+  }
+}]
